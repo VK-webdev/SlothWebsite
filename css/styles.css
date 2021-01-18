@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Zilla Slab', serif;
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sue Ellen Francisco', cursive;
+  font-size: 5.625rem;
+  color: #612802;
+  line-height: 2;
+}
+
+h2 {
+
+  font-family: 'Concert One', cursive;
+  color: #612802;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Concert One', cursive;
+  color: #381802;
+}
+
+a {
+  color:#994409;
+  font-family: 'Zilla Slab', serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ebb086;
+}
+
+hr {
+  border: dotted #994409 5px;
+  border-bottom: none;
+  width: 5%;
+}
+
+.copyright {
+  color: #ebb086;
+  font-size: 75%;
+  padding: 20px auto 20px auto;
+}
+.TopContainer {
+  background-color: #9dab86;
+  position: relative;
+  padding-top: 100px;
+}
+
+.MiddleContainer {
+  background-color: #e6a157;
+  padding-bottom: 50px;
+
+}
+
+.BottomContainer {
+  background-color: #eb8242;
+    padding: 50px 0 20px;
+
+}
+
+.mammal {
+  text-decoration: underline;
+}
+
+.subheading {
+  font-size: 20px;
+  font-weight: normal;
+  color: #612802;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.learnmore {
+  width: 50%;
+  padding-top: 50px;
+  margin: auto auto 50px auto;
+  line-height: 2;
+}
+.profile {
+  width: 50%;
+  padding-top: 100px;
+  margin: auto auto 50px auto;
+  line-height: 2;
+}
+
+.skills {
+  padding-top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.defensepic {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Camopic {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profilepic {
+  width: 25%;
+}
+
+
+
+.BUTTON_HYH {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 5%;
+   line-height: 25px;
+   color: #381802;
+   font-family: Courier New;
+   width: 30%;
+   font-size: 23px;
+   font-weight: 100;
+   padding: 18px;
+   background-color: #9DAB86;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_HYH:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
